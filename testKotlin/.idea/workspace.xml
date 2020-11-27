@@ -7,10 +7,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -28,7 +43,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.ZipMethodsKt">
+    <configuration name="LambdaFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="testKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LambdaFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="testKotlin" />
       <option name="VM_PARAMETERS" />
@@ -42,8 +70,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZipMethodsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="testKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ZipMethodsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ZipMethodsKt" />
+        <item itemvalue="Kotlin.LambdaFunctionsKt" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -76,6 +119,7 @@
       <workItem from="1606322793728" duration="6828000" />
       <workItem from="1606393272208" duration="4877000" />
       <workItem from="1606426245080" duration="3613000" />
+      <workItem from="1606482430196" duration="11716000" />
     </task>
     <servers />
   </component>
@@ -87,33 +131,38 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="555" y="215" width="847" height="684" key="#Project_Structure/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606139332159" />
-    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606322967599">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="2338" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606499946580">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606322967599" />
+    <state x="2338" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606499946580" />
     <state x="692" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606322966871">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="692" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606322966871" />
-    <state width="1874" height="326" key="GridCell.Tab.0.bottom" timestamp="1606430084945">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1874" height="407" key="GridCell.Tab.0.bottom" timestamp="1606501445731">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606338174241" />
+    <state width="1874" height="407" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606501445731" />
     <state width="1874" height="326" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084945" />
-    <state width="1874" height="326" key="GridCell.Tab.0.center" timestamp="1606430084943">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1874" height="407" key="GridCell.Tab.0.center" timestamp="1606501445730">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606338174241" />
+    <state width="1874" height="407" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606501445730" />
     <state width="1874" height="326" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084943" />
-    <state width="1874" height="326" key="GridCell.Tab.0.left" timestamp="1606430084943">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1874" height="407" key="GridCell.Tab.0.left" timestamp="1606501445730">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606338174240" />
+    <state width="1874" height="407" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606501445730" />
     <state width="1874" height="326" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084943" />
-    <state width="1874" height="326" key="GridCell.Tab.0.right" timestamp="1606430084944">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state width="1874" height="407" key="GridCell.Tab.0.right" timestamp="1606501445731">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1874" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606338174241" />
+    <state width="1874" height="407" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606501445731" />
     <state width="1874" height="326" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084944" />
   </component>
 </project>

@@ -56,6 +56,12 @@ fun main() {
     val arrays: MutableList<Int> = arrayListOf(1, 2,5, -1, 1111, 14, -43, 43, 65, -65)
     println(arraysOfSort(arrays))
 
+    val numbers = arrayListOf<Int>(1, 2, 3,4, 5,6 ,7, 8,10)
+    val sortNumbers = numbers.filter { number:Int -> number%2==0 }
+    for(i in sortNumbers) println(i)
+
+
+
 //    public class Sparbach {
 //        public static void main(String[] args) {
 //            int [] massive = {4, 2, 9, 6, 12, 7, 10, 3, 13, 11, 77, 100, 1};
