@@ -14,7 +14,7 @@ fun main() {
     for (i in 0 until 1000) {
         numbersRandom.add((Math.random() * 1000).toInt())
     }
-    val sortedArrays = numbersRandom.filter { it % 3 == 0 && it % 5 == 0 }
+    val sortedArrays = numbersRandom.filter  { it % 3 == 0 && it % 5 == 0 }
     val squre: (Int) -> (Int) = { it * it }
 
     val sortedNumbers = mutableListOf<Int>()
