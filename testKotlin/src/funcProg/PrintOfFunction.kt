@@ -14,6 +14,6 @@ fun main() {
 
 }
 
-fun printInfo(data: Map<String, List<Int>>){
+fun printInfo(data: Map<String, List<Int>>) {
 
 }

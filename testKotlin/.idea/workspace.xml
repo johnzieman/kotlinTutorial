@@ -24,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
@@ -49,8 +50,21 @@
       <recent name="$PROJECT_DIR$/src/funcProg" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.oop.MainKt">
-    <configuration name="funcProg.FlatmapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="testKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="oop.Extends.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="funcProg.FlatmapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -63,20 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcProg.LambdaFunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="testKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="funcProg.LambdaFunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="funcProg.LetExamplesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="funcProg.LetExamplesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -89,7 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcProg.ZipMethodsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="funcProg.ZipMethodsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -102,7 +103,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="oop.MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="testKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.oop.MainKt" />
         <item itemvalue="Kotlin.funcProg.LetExamplesKt" />
         <item itemvalue="Kotlin.funcProg.FlatmapKt" />
         <item itemvalue="Kotlin.funcProg.ZipMethodsKt" />
-        <item itemvalue="Kotlin.funcProg.LambdaFunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +156,8 @@
       <workItem from="1606426245080" duration="3613000" />
       <workItem from="1606482430196" duration="15513000" />
       <workItem from="1606569409007" duration="14594000" />
+      <workItem from="1606655489403" duration="2325000" />
+      <workItem from="1606658934225" duration="11571000" />
     </task>
     <servers />
   </component>
@@ -175,29 +178,37 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="692" y="339" width="525" height="435" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606322966871" />
-    <state width="1874" height="366" key="GridCell.Tab.0.bottom" timestamp="1606590954942">
+    <state width="1844" height="366" key="GridCell.Tab.0.bottom" timestamp="1606679892250">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="394" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606507774235" />
-    <state width="1874" height="366" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606590954942" />
+    <state width="1874" height="366" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606658916190" />
+    <state width="1844" height="366" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606679892250" />
     <state width="1874" height="326" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084945" />
-    <state width="1874" height="366" key="GridCell.Tab.0.center" timestamp="1606590954942">
+    <state width="1844" height="366" key="GridCell.Tab.0.center" timestamp="1606679892250">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="394" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606507774235" />
-    <state width="1874" height="366" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606590954942" />
+    <state width="1874" height="366" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606658916189" />
+    <state width="1844" height="366" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606679892250" />
     <state width="1874" height="326" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084943" />
-    <state width="1874" height="366" key="GridCell.Tab.0.left" timestamp="1606590954942">
+    <state width="1844" height="366" key="GridCell.Tab.0.left" timestamp="1606679892250">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="394" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606507774235" />
-    <state width="1874" height="366" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606590954942" />
+    <state width="1874" height="366" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606658916189" />
+    <state width="1844" height="366" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606679892250" />
     <state width="1874" height="326" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084943" />
-    <state width="1874" height="366" key="GridCell.Tab.0.right" timestamp="1606590954942">
+    <state width="1844" height="366" key="GridCell.Tab.0.right" timestamp="1606679892250">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1874" height="394" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606507774235" />
-    <state width="1874" height="366" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606590954942" />
+    <state width="1874" height="366" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606658916190" />
+    <state width="1844" height="366" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606679892250" />
     <state width="1874" height="326" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606430084944" />
+    <state x="2544" y="245" key="run.anything.popup" timestamp="1606658308816">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="245" key="run.anything.popup/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1606658308816" />
+    <state x="2528" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1606675659748">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2528" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606675659748" />
   </component>
 </project>
